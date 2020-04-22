@@ -1,0 +1,11 @@
+.actions-scroll {
+    overflow: auto;
+    position: relative;
+    max-height: 55em;
+}
+
+.others-scroll {
+    overflow: auto;
+    position: relative;
+    max-height: 25em;
+}
